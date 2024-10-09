@@ -32,5 +32,9 @@ linea de codigo `x=13`
 modelado <- deSolve("variables")
 ```
 
+no hacer tablas en Markdown
 
+#### Agregar ecuaciones de Latex
+
+$$dfrac{dx}{d}= x$$
 
