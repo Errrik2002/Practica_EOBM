@@ -38,3 +38,15 @@ no hacer tablas en Markdown
 
 $$ \dfrac{dx}{d}= x $$
 
+
+
+#### GitHub pages
+Para poder hacer una pagina web estatica, pero se necesitan otros requerimentos
+
+Las paginas son una combinacion, HTML con markdown
+
+- ##Writing##
+Paginas de github sin ningun host
+
+
+
