@@ -36,5 +36,5 @@ no hacer tablas en Markdown
 
 #### Agregar ecuaciones de Latex
 
-$$dfrac{dx}{d}= x$$
+$$ \dfrac{dx}{d}= x $$
 
