@@ -25,7 +25,7 @@ Temas de interes:
 ![Soluciones de]()
 
 #### Agregar codigo
-linea de codigo 'x=13'
+linea de codigo ' x=13 '
 
 
 
