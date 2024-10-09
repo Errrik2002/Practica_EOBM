@@ -20,3 +20,13 @@ Temas de interes:
 
 [I'm ](../pathfile)
 
+#### Agregar imagenes
+
+![Soluciones de]()
+
+#### Agregar codigo
+linea de codigo 'x=13'
+
+
+
+
